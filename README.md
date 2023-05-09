@@ -1,2 +1,2 @@
 # Graphs
-Depth first search and Binary First Search
+Depth first search and Binary First Search using C.
